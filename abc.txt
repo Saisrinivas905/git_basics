@@ -1,3 +1,9 @@
 hello world welcome to india 
 
-python is general purpose high level language developed by gudo van rossum in 1989 at netherslands
+python is general purpose high level language developed by gudo van rossum in 1989 at netherslands.
+
+.python is functional oriented programming language 
+.python supports object oriented programming language 
+.python supports gui applications.
+. python is a high level programming language
+. python is used to develop games applications.

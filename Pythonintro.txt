@@ -7,3 +7,5 @@ python is general purpose high level language developed by gudo van rossum in 19
 .python supports gui applications.
 . python is a high level programming language
 . python is used to develop games applications.
+
+to get a software developer in 6 lpa
